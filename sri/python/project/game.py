@@ -2,9 +2,10 @@ import random
 running=True
 while running:
     points = int(input("enter how many points to play: "))
+    win=1
     lose = 0
-    win = 1
     score = 2
+   
     for i in range(points):
         
     
